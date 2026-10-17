@@ -3,7 +3,7 @@ import cv2
 import numpy as np
 
 
-img = cv2.imread(os.path.join('.','data','download.jpg'))
+img = cv2.imread(os.path.join('YOUR PATH'))
 
 
 img_edge = cv2.Canny(img,100,200)
