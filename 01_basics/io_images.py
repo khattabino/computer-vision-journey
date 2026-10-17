@@ -2,7 +2,7 @@ import os
 import cv2
 
 
-image_path = os.path.join('.','data','download.jpg') 
+image_path = os.path.join('YOUR PATH') 
 
 
 img = cv2.imread(image_path)
