@@ -3,7 +3,7 @@ import cv2
 
 
 
-img = cv2.imread(os.path.join('.','data','download.jpg'))
+img = cv2.imread(os.path.join('YOUR PATH'))
 
 print(img.shape)
 
