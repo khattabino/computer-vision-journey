@@ -2,7 +2,7 @@ import os
 import cv2
 
 
-webcam = cv2.VideoCapture(0)
+webcam = cv2.VideoCapture(0) #if you have many webcam choose from them by changing the zero
 
 
 while True:
