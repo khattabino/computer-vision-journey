@@ -2,7 +2,7 @@ import os
 import cv2
 
 
-video_path=os.path.join('.','data','clip32.mp4')
+video_path=os.path.join('YOUR PATH')
 
 video = cv2.VideoCapture(video_path)
 
